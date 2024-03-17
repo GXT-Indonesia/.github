@@ -10,7 +10,7 @@ Gema Akselerasi Teknologi (GXT) is an Indonesian-based company dedicated to prov
 
 - **Custom Software Development**: Tailored software solutions to address specific business needs, including web applications, mobile apps, and enterprise software.
 - **IT Infrastructure Optimization**: Assessment and optimization of existing IT infrastructure to improve performance, scalability, and security.
-- **Cloud Services**: Implementation and management of cloud-based solutions, including migration to platforms like AWS, Azure, or Google Cloud.
+- **Cloud Services**: Implementation and management of cloud-based solutions, including migration to private cloud.
 - **Cybersecurity Solutions**: Comprehensive security services such as penetration testing, vulnerability assessments, threat monitoring, and incident response.
 - **Data Analytics and Business Intelligence**: Gathering insights from data through analytics tools and techniques for strategic decision-making.
 - **Internet of Things (IoT) Integration**: Integrating IoT devices and sensors for data collection, process optimization, automation, and predictive maintenance.
