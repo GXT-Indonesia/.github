@@ -1,5 +1,7 @@
 # Gema Akselerasi Teknologi (GXT)
 
+![GXT Logo](https://github.com/GXT-Indonesia/assets/blob/main/gxt-logo-blue.png)
+
 Welcome to GXT's Integrated Technology Solutions Repository!
 
 ## About GXT
